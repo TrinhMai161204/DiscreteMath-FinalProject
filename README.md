@@ -41,3 +41,9 @@ The program allows users to create custom weighted graphs and visualize the resu
 
 ```bash
 pip install streamlit networkx matplotlib
+```
+
+### 2. Run the Application
+```bash
+python3 -m streamlit run mst_app.py
+```
